@@ -1,0 +1,608 @@
+{
+  "source": "competition_support_faq",
+  "version": "1.0",
+  "language": "id",
+  "range": "101-200",
+  "data": [
+    {
+      "id": 101,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #101",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 102,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #102",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 103,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #103",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 104,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #104",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 105,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #105",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 106,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #106",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 107,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #107",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 108,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #108",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 109,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #109",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 110,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #110",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 111,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #111",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 112,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #112",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 113,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #113",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 114,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #114",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 115,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #115",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 116,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #116",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 117,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #117",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 118,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #118",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 119,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #119",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 120,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #120",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 121,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #121",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 122,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #122",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 123,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #123",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 124,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #124",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 125,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #125",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 126,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #126",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 127,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #127",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 128,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #128",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 129,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #129",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 130,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #130",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 131,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #131",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 132,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #132",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 133,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #133",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 134,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #134",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 135,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #135",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 136,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #136",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 137,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #137",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 138,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #138",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 139,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #139",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 140,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #140",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 141,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #141",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 142,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #142",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 143,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #143",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 144,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #144",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 145,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #145",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 146,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #146",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 147,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #147",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 148,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #148",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 149,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #149",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 150,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #150",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 151,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #151",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 152,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #152",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 153,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #153",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 154,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #154",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 155,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #155",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 156,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #156",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 157,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #157",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 158,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #158",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 159,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #159",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 160,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #160",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 161,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #161",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 162,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #162",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 163,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #163",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 164,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #164",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 165,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #165",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 166,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #166",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 167,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #167",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 168,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #168",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 169,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #169",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 170,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #170",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 171,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #171",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 172,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #172",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 173,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #173",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 174,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #174",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 175,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #175",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 176,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #176",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 177,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #177",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 178,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #178",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 179,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #179",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 180,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #180",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 181,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #181",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 182,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #182",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 183,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #183",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 184,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #184",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 185,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #185",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 186,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #186",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 187,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #187",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 188,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #188",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 189,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #189",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 190,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #190",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 191,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #191",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 192,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #192",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 193,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #193",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 194,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #194",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 195,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #195",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 196,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #196",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 197,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #197",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 198,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #198",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 199,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #199",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    },
+    {
+      "id": 200,
+      "category": "system_support",
+      "question": "Pertanyaan sistem #200",
+      "answer": "Masalah ini terkait sistem dan dapat dibantu oleh customer support."
+    }
+  ]
+}

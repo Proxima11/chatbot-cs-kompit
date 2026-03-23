@@ -1,0 +1,297 @@
+{
+  "source": "competition_support_faq",
+  "version": "1.0",
+  "language": "id",
+  "range": "1-100",
+  "data": [
+  {
+    "id": 1,
+    "question": "Bagaimana cara mendaftar akun di aplikasi?",
+    "answer": "Klik tombol daftar, isi email, nomor telepon, dan password, lalu lakukan verifikasi melalui email.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "question": "Mengapa registrasi akun saya gagal atau tidak berhasil?",
+    "answer": "Periksa kembali email anda apakah email telah terdaftar sebelumnya.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana cara login ke aplikasi?",
+    "answer": "Masukkan email dan password yang telah terdaftar kemudian klik tombol login.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "question": "Apa yang harus dilakukan jika lupa password?",
+    "answer": "Gunakan fitur lupa password dan ikuti instruksi reset yang dikirim ke email Anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "question": "Apa yang harus dilakukan jika ingin mengganti password?",
+    "answer": "Gunakan fitur ganti password dengan login akun terkait, klik ikon avatar, klik privacy & security, lalu masukan password lama dan password barunya.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "question": "Apa yang harus dilakukan jika ingin mengganti email?",
+    "answer": "Login dengan akun terkait, klik ikon avatar, klik detail akun, lalu tekan tombol ganti email, lalu ikuti instruksi untuk mengganti email akun anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "question": "Apa yang harus dilakukan jika ingin mengganti nomor telepon?",
+    "answer": "Login dengan akun terkait, klik ikon avatar, klik detail akun, lalu tekan tombol ganti nomor telepon, lalu ikuti instruksi untuk mengganti nomor telepon akun anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 8,
+    "question": "Apa yang harus dilakukan jika ingin menghapus akun?",
+    "answer": "Gunakan fitur hapus akun dengan login akun terkait, klik ikon avatar, klik detail akun, klik tombol delete akun, lalu ikuti instruksi hapus akun.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 9,
+    "question": "Apa yang harus dilakukan jika ingin logout akun?",
+    "answer": "Gunakan fitur logout akun dengan klik ikon avatar lalu klik tombol logout.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 10,
+    "question": "Apa yang harus dilakukan jika ingin mengganti akun?",
+    "answer": "Gunakan fitur logout akun dengan klik ikon avatar, klik tombol logout, lalu masukkan email dan password yang telah terdaftar dan klik tombol login.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 11,
+    "question": "Apa data akun saya aman?",
+    "answer": "Ya, data anda tersimpan aman dan tidak dipergunakan selain dengan persetujuan anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 12,
+    "question": "Apakah saya harus membuat akun?",
+    "answer": "Ya, akun diperlukan untuk mengikuti kompetisi, bergabung dengan tim, dan berbagai fitur lainnya.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 13,
+    "question": "Apakah saya bisa mendaftar menggunakan akun Google atau media sosial?",
+    "answer": "Jika tersedia, Anda dapat menggunakan fitur login atau daftar melalui akun Google atau media sosial yang terhubung.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 14,
+    "question": "Mengapa saya tidak menerima email verifikasi saat mendaftar?",
+    "answer": "Silakan periksa folder spam atau pastikan alamat email yang dimasukkan sudah benar dan aktif.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 15,
+    "question": "Bagaimana cara mengirim ulang email verifikasi?",
+    "answer": "Gunakan fitur kirim ulang verifikasi pada halaman login atau registrasi, lalu periksa kembali email Anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 16,
+    "question": "Mengapa akun saya tidak bisa login meskipun email dan password sudah benar?",
+    "answer": "Pastikan akun Anda sudah terverifikasi dan tidak sedang dalam pembatasan atau pemblokiran sistem.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 17,
+    "question": "Apakah satu email bisa digunakan untuk lebih dari satu akun?",
+    "answer": "Tidak, satu alamat email hanya dapat digunakan untuk satu akun yang terdaftar.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 18,
+    "question": "Apakah saya bisa mengganti nama lengkap di akun saya?",
+    "answer": "Perubahan nama lengkap dapat dilakukan melalui menu detail akun atau dengan menghubungi customer support jika diperlukan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 19,
+    "question": "Bagaimana jika akun saya terkunci?",
+    "answer": "Jika akun Anda terkunci, silakan tunggu beberapa saat atau hubungi customer support untuk bantuan lebih lanjut.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 20,
+    "question": "Mengapa akun saya dibatasi?",
+    "answer": "Akun dapat dibatasi jika terdeteksi aktivitas yang melanggar ketentuan atau kebijakan aplikasi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 21,
+    "question": "Apakah saya bisa memiliki lebih dari satu akun?",
+    "answer": "Kepemilikan lebih dari satu akun harus mengikuti ketentuan dan kebijakan yang berlaku pada aplikasi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 22,
+    "question": "Apakah password memiliki ketentuan khusus?",
+    "answer": "Password harus memenuhi ketentuan minimal karakter dan kombinasi huruf serta angka sesuai kebijakan keamanan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 23,
+    "question": "Apakah saya bisa menggunakan nomor telepon yang sama untuk beberapa akun?",
+    "answer": "Nomor telepon hanya dapat digunakan untuk satu akun yang terdaftar sesuai kebijakan aplikasi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 24,
+    "question": "Bagaimana cara memperbarui foto profil akun?",
+    "answer": "Login ke akun Anda, buka menu profil, lalu pilih opsi ubah foto profil dan unggah foto terbaru.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 25,
+    "question": "Apa yang harus dilakukan jika akun diretas?",
+    "answer": "Segera lakukan reset password dan hubungi customer support untuk mengamankan akun Anda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 26,
+    "question": "Apakah saya bisa mendaftar tanpa nomor telepon?",
+    "answer": "Nomor telepon diperlukan untuk proses verifikasi dan keamanan akun sesuai kebijakan aplikasi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 27,
+    "question": "Mengapa nomor telepon saya tidak bisa digunakan saat registrasi?",
+    "answer": "Nomor telepon tersebut mungkin sudah terdaftar pada akun lain atau tidak sesuai format yang ditentukan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 28,
+    "question": "Mengapa kode OTP tidak saya terima?",
+    "answer": "Pastikan nomor telepon aktif dan jaringan stabil, serta periksa apakah pesan masuk ke folder spam atau tertunda.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 29,
+    "question": "Berapa lama kode OTP berlaku?",
+    "answer": "Kode OTP biasanya berlaku selama beberapa menit dan akan kedaluwarsa jika tidak segera digunakan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 30,
+    "question": "Apakah saya bisa login di lebih dari satu perangkat?",
+    "answer": "Ya, Anda dapat login di beberapa perangkat selama tidak melanggar kebijakan keamanan aplikasi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 31,
+    "question": "Apakah akun yang sudah dihapus bisa dipulihkan?",
+    "answer": "Akun yang telah dihapus secara permanen umumnya tidak dapat dipulihkan kembali.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 32,
+    "question": "Apakah email saya bisa digunakan kembali setelah akun dihapus?",
+    "answer": "Penggunaan kembali email mengikuti kebijakan sistem dan mungkin memerlukan waktu tertentu sebelum dapat digunakan lagi.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 33,
+    "question": "Bagaimana jika saya salah memasukkan email saat registrasi?",
+    "answer": "Silakan lakukan pendaftaran ulang dengan alamat email yang benar atau hubungi customer support untuk bantuan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+  {
+    "id": 34,
+    "question": "Apakah saya bisa mengganti akun tanpa logout?",
+    "answer": "Untuk mengganti akun, Anda perlu logout terlebih dahulu sebelum login dengan akun lain.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 35,
+    "question": "Bagaimana jika saya kehilangan akses ke email terdaftar?",
+    "answer": "Silakan hubungi customer support untuk proses pemulihan akun dengan verifikasi identitas.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  },
+{
+    "id": 36,
+    "question": "Bagaimana cara melaporkan aktivitas mencurigakan pada akun saya?",
+    "answer": "Segera ubah password Anda dan hubungi customer support untuk melaporkan aktivitas mencurigakan.",
+    "category": "Akun & Autentikasi",
+    "intent": "knowledge",
+    "role": "user"
+  }
+
+  ]
+}

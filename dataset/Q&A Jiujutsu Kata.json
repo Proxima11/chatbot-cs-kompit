@@ -1,0 +1,608 @@
+{
+  "source": "competition_support_faq",
+  "version": "1.0",
+  "language": "id",
+  "range": "1-100",
+  "data": [
+    {
+      "id": 1,
+      "category": "general_account",
+      "question": "Apa itu aplikasi kompetisi ini?",
+      "answer": "Aplikasi ini digunakan untuk mengelola kompetisi, tim, anggota, dan pendaftaran secara online."
+    },
+    {
+      "id": 2,
+      "category": "general_account",
+      "question": "Apakah saya harus membuat akun?",
+      "answer": "Ya, akun diperlukan untuk mengikuti kompetisi."
+    },
+    {
+      "id": 3,
+      "category": "general_account",
+      "question": "Bagaimana cara membuat akun?",
+      "answer": "Klik Daftar, isi data, lalu verifikasi email."
+    },
+    {
+      "id": 4,
+      "category": "general_account",
+      "question": "Apakah satu akun bisa ikut banyak kompetisi?",
+      "answer": "Ya, satu akun bisa mengikuti beberapa kompetisi."
+    },
+    {
+      "id": 5,
+      "category": "general_account",
+      "question": "Apakah data saya aman?",
+      "answer": "Data dilindungi dan hanya digunakan untuk keperluan kompetisi."
+    },
+    {
+      "id": 6,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #6",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 7,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #7",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 8,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #8",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 9,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #9",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 10,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #10",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 11,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #11",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 12,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #12",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 13,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #13",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 14,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #14",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 15,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #15",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 16,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #16",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 17,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #17",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 18,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #18",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 19,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #19",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 20,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #20",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 21,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #21",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 22,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #22",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 23,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #23",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 24,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #24",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 25,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #25",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 26,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #26",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 27,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #27",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 28,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #28",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 29,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #29",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 30,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #30",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 31,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #31",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 32,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #32",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 33,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #33",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 34,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #34",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 35,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #35",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 36,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #36",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 37,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #37",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 38,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #38",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 39,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #39",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 40,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #40",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 41,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #41",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 42,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #42",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 43,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #43",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 44,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #44",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 45,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #45",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 46,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #46",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 47,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #47",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 48,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #48",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 49,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #49",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 50,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #50",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 51,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #51",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 52,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #52",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 53,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #53",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 54,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #54",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 55,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #55",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 56,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #56",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 57,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #57",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 58,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #58",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 59,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #59",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 60,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #60",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 61,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #61",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 62,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #62",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 63,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #63",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 64,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #64",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 65,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #65",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 66,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #66",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 67,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #67",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 68,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #68",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 69,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #69",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 70,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #70",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 71,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #71",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 72,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #72",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 73,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #73",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 74,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #74",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 75,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #75",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 76,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #76",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 77,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #77",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 78,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #78",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 79,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #79",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 80,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #80",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 81,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #81",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 82,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #82",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 83,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #83",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 84,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #84",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 85,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #85",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 86,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #86",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 87,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #87",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 88,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #88",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 89,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #89",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 90,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #90",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 91,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #91",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 92,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #92",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 93,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #93",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 94,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #94",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 95,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #95",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 96,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #96",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 97,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #97",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 98,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #98",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 99,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #99",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    },
+    {
+      "id": 100,
+      "category": "competition_flow",
+      "question": "Pertanyaan umum kompetisi #100",
+      "answer": "Silakan ikuti aturan dan ketentuan yang tercantum pada halaman kompetisi."
+    }
+  ]
+}
